@@ -38,15 +38,15 @@ Ejercicio 5
 2) Definir variables tipo float (peso, longitud, libras,pies) y char (nombre del dinosaurio)
 3) Recibir y guardar datos
 4) Realizar operaciones (calcular peso y longitud)
-5) Mostrar en pantalla valores de peso y longitud
+5) Mostrar en pantalla (peso y longitud)
 6) Terminar programa
 
 Ejercicio 6
 1) Inicio programa
-2) Definir variables tipo float (litros) y tipo int (galones, valor  por litro)
+2) Definir variables tipo float (litros) y tipo int (galones, valor_litro)
 3) Recibir valores 
 4) Guardar valores
-5) Realizar operaciones (calcular litros y valor por litro)
+5) Realizar operaciones (calcular litros y valor_litro)
 6) Mostrar en pantalla (cantidad de litros surtidos y valor de la compra)
 7) Fin del programa
 
@@ -69,15 +69,15 @@ Ejercicio 8
 
 Ejercicio 9
 1) Inicio programa
-2) Definir variables tipo int (sueldo base, sueldo total, ventas, comisión).
+2) Definir variables tipo int (sueldo_bruto, sueldo_total, ventas, comisión).
 3) Recibir y guardar valores
-4) Realizar operación de conversión de dias a segundos
-5) Mostrar en pantalla (tiempo en segundos)
+4) Realizar calculos de variable comision y sueldo_total
+5) Mostrar en pantalla (variable comision y sueldo_total)
 6) Fin del programa
 
 Ejercicio 10
 1) Inicio programa
-2) Definir variables tipo int (kilometros, costo por kilometro, costo del boleto).
+2) Definir variables tipo int (kilometros, costo_kilometro, costo_boleto).
 3) Recibir valores 
 4) Guardar valores
 5) Realizar operación (costo del boleto)

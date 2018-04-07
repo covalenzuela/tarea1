@@ -12,8 +12,8 @@ int main()
 	printf ("Ingrese pies: ");
 	scanf ("%f", &pies);
 	peso= (libras * 0.45);
-	printf ("Peso: %.2f\n", peso);
 	longitud= (pies * 0.3048);
+	printf ("Peso: %.2f\n", peso);
 	printf ("Longitud: %.4f", longitud);
 	
 	return 0;
